@@ -1,0 +1,22 @@
+{
+  "name": "oa2s2",
+  "version": "0.1.0",
+  "description": "OAuth2 Server/Provider with express in node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelcaldas/oa2s2.git"
+  },
+  "author": "Miguel Caldas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelcaldas/oa2s2/issues"
+  },
+  "homepage": "https://github.com/miguelcaldas/oa2s2#readme",
+  "dependencies": {
+    "express-oauth-server": "^2.0.0"
+  }
+}
